@@ -19,7 +19,7 @@ The online store is grappling with inadequate revenue data management, which has
 - Knowing the top customers and how much they contribute to the total revenue.
 
 ## The Data
-The dataset for this project was collected from Forage. It comprises 53,128 rows and 8 columns containing the following information:
+The dataset for this project was collected from [Forage](https://www.theforage.com/virtual-experience/MyXvBcppsW2FkNYCX/tata-group/data-visualisation-p5xo/framing-the-business-scenario). It comprises 53,128 rows and 8 columns containing the following information:
 
 - Stock Code
 - Description
