@@ -50,4 +50,9 @@ The following were considered for this purpose:
 - Which of the countries have the highest demand for the products?
 
 ## Insights
-  1. Total Revenue by Month: We have revenue by month from January to December for the year 2011. November ranked the highest with the total of 1,509,496 revenue, while February is the least with 523,631 revenue.
+  1. **Total Revenue by Month:** We have revenue by month from January to December for the year 2011. November ranked the highest with the total of 1,509,496 revenue, while February is the least with 523,631 revenue. Upon examination, it is evident that certain months experience significant growth. Specifically, the data indicates consistent revenue in the first 8 months, with an average of around $685k generated during this period.
+The revenue growth begins in September, with a 40% increase compared to the previous month. This upward trend persists until November when it peaks at 1.5 million USD, the highest level for the year. The information for December is missing, so no definitive findings can be made from it. This study illustrates how the sales of the retail store are influenced by the seasonal patterns typically seen in the final four months of the year.
+
+<img width="462" alt="Rbymonth" src="https://github.com/user-attachments/assets/bf1a1294-ed28-4d65-a5b0-209a71f3cd11">
+
+  2. 
